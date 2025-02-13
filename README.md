@@ -89,7 +89,7 @@ Imagine a world where:
 ## **🔗 Get Involved**
 📌 **Website (Coming Soon)**  
 📌 **GitHub:** [github.com/BeyondTheHorizonLabs](https://github.com/BeyondTheHorizonLabs)  
-📌 **LinkedIn:** [linkedin.com/in/davidstjohn](https://linkedin.com/in/davidstjohn)  
+📌 **LinkedIn:** [linkedin.com/in/davestj](https://www.linkedin.com/in/davestj/)  
 📌 **Twitter/X:** [@BTH_Labs](https://twitter.com/BTH_Labs)  
 📌 **Research Papers & Whitepapers:** [Coming Soon]
 
